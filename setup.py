@@ -95,7 +95,7 @@ setuptools.setup(
     # This field corresponds to the "Home-Page" metadata field:
     # https://packaging.python.org/specifications/core-metadata/#home-page-optional
     # Optional
-    url="https://github.com/PoplarYang/tobe",
+    url="https://github.com/JiChaoSong/djangoFeignClient",
 
     # This should be your name or the name of the organization which owns the
     # project.
